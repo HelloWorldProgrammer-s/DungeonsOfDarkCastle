@@ -38,11 +38,10 @@ body {
 	transition: 150ms;
 	background: #2929299a;
 	border-style: double;
-	padding: 5px; 
 	width: 30%;
 	height: 7%;
 	color: #FFFFFF;
-	margin-top: 5px;
+	margin-top: 1%;
 	font-size: 1.5vw;
 	text-align: center;
 }
