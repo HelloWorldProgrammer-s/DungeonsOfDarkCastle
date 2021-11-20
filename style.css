@@ -5,12 +5,12 @@ html {
 body {
 	background-image: url("https://avatars.mds.yandex.net/i?id=c0d94eb9c95e443b0fbbf72218892876-5605491-images-thumbs&n=13");
 	background-size: cover;
-	hight: 100%;
-	margin: 0;
+	height: 100%;
+	margin: 0 ;
 }
 
 .fav {
-	width: 155px;
+	width: 15%;
 	height: auto;
 	padding-top: 4%;
 }
@@ -40,16 +40,19 @@ body {
 	border-style: double;
 	padding: 5px; 
 	width: 30%;
+	height: 7%;
 	color: #FFFFFF;
 	margin-top: 5px;
+	font-size: 1.5vw;
+	text-align: center;
 }
 
 #hwp:hover{
-	height: 60px;
+	height: 13%;
 	width: auto;
 }
 
 #hwp {
-	height: 55px;
+	height: 12%;
 	width: auto;
 }
