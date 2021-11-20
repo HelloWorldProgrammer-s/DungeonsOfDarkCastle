@@ -1,0 +1,50 @@
+body {
+	background-image: url("https://avatars.mds.yandex.net/i?id=c0d94eb9c95e443b0fbbf72218892876-5605491-images-thumbs&n=13");
+	background-size: cover;
+
+}
+
+.fav {
+	width: 155px;
+	height: auto;
+	padding-top: 4%;
+}
+
+.main {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+.button:hover{
+	text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
+.button {
+	border-radius: 100px;
+	transition: 150ms;
+	background: #2929299a;
+	border-style: double;
+	padding: 5px; 
+	width: 30%;
+	color: #FFFFFF;
+	margin-top: 5px;
+}
+
+#hwp:hover{
+	height: 60px;
+	width: auto;
+}
+
+#hwp {
+	height: 55px;
+	width: auto;
+}
