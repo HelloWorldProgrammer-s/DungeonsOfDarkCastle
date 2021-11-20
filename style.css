@@ -1,3 +1,7 @@
+html {
+	height: 100%;
+}
+
 body {
 	background-image: url("https://avatars.mds.yandex.net/i?id=c0d94eb9c95e443b0fbbf72218892876-5605491-images-thumbs&n=13");
 	background-size: cover;
