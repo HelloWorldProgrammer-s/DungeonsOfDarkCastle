@@ -38,8 +38,8 @@ body {
 	transition: 150ms;
 	background: #2929299a;
 	border-style: double;
-	width: 30%;
-	height: 7%;
+	width: 20%;
+	height: auto;
 	color: #FFFFFF;
 	margin-top: 1%;
 	font-size: 1.5vw;
