@@ -77,7 +77,7 @@ header {
 }
 
 .rule {
-	height: auto%;
+	height: auto;
 	width: 95%;
 	margin-left: 1.5%;
 	margin-right: 1.5%;
@@ -85,6 +85,7 @@ header {
 	border-style: dotted;
 	padding: 1%;
 	font-size: 1.7vw;
+	margin-bottom: 6%;
 }
 
 .head2 {
@@ -115,6 +116,6 @@ header {
 	height: 8%;
 	color: #FFFFFF;
 	margin-top: 1%;
-	font-size: 1.7vh;
+	font-size: 1.7vw;
 	text-align: center;
 }
