@@ -3,6 +3,7 @@ html {
 }
 
 body {
+	background-attachment: fixed;
 	background-image: url("https://avatars.mds.yandex.net/i?id=c0d94eb9c95e443b0fbbf72218892876-5605491-images-thumbs&n=13");
 	background-size: cover;
 	height: 100%;
@@ -38,7 +39,8 @@ body {
 	transition: 150ms;
 	background: #2929299a;
 	border-style: double;
-	width: 23%;
+	/*padding: 2%;*/
+	width: 20%;
 	height: 8%;
 	color: #FFFFFF;
 	margin-top: 1%;
@@ -52,10 +54,67 @@ body {
 	margin-top: 0.5%;
 }
 
-#hwp {	
+#hwp {
 	height: 12%;
 	width: auto;
 	border-radius: 100px;
 	border-style: none;
 	margin-top: 1.5%;
+}
+
+
+ 	/*    rule.html    */
+
+
+header {
+	width: 100%;
+	text-align: center;	
+}
+
+.castle {
+	width: 20%;
+	height: auto;
+}
+
+.rule {
+	height: auto%;
+	width: 95%;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	margin-top: 2%;
+	border-style: dotted;
+	padding: 1%;
+	font-size: 1.7vw;
+}
+
+.head2 {
+	width: 20%;
+	height: auto;
+	margin-left: 40%;
+}
+
+#button:hover{
+	text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
+#button{
+	margin-left: 40%;
+	border-radius: 100px;
+	transition: 150ms;
+	background: #2929299a;
+	border-style: double;
+	width: 20%;
+	height: 8%;
+	color: #FFFFFF;
+	margin-top: 1%;
+	font-size: 1.7vh;
+	text-align: center;
 }
