@@ -3,11 +3,12 @@ html {
 }
 
 body {
-	background-attachment: fixed;
-	background-image: url("https://im0-tub-ru.yandex.net/i?id=59703bd814fe8d7dcb418e34ebf92d10-l&n=33&w=1280&h=720&q=60");
-	background-size: cover;
-	height: 100%;
-	margin: 0 ;
+        background-image: url("");
+	background-size: 100% 100%;
+        background-repeat: repeat;
+        border: 2px solid #999;
+        height: 100%;
+        margin: 0;
 }
 
 .fav {
