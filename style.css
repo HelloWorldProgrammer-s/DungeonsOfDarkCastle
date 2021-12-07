@@ -3,7 +3,7 @@ html {
 }
 
 body {
-        background-image: url("fone.jpg");
+        background-image: url("images/back.jpg");
 	background-size: 100% 100%;
         background-repeat: repeat;
         height: 100%;
@@ -63,7 +63,7 @@ body {
 }
 
 
- 	/*    rule.html    */
+	/*	rule.html	*/
 
 
 header {
@@ -119,3 +119,6 @@ header {
 	font-size: 1.7vw;
 	text-align: center;
 }
+
+
+	/*	game.html	*/
