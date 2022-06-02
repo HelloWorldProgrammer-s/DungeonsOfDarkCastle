@@ -128,3 +128,13 @@ header {
 	width: 5%;
 	height: 10%;	
 }
+.menu-but {
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 	5%;
+	height: 10%;
+	background-image: url("images/menu-but.png");
+	right: 	0;
+	bottom: 0;
+	position: absolute;
+}
